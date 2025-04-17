@@ -1,3 +1,11 @@
+# Hey I don't really know how this site works but I am too lazy to figure it out at 3:45 am, So I will just add my notes here.
+# If you can give me like constructive criticism to help me learn or show what features or stuff I could've done to improve the code than go ahead.
+# This is my first coding project and I did get some help with the threading from chatgpt but I will try not to use it in my future projects.
+# You can also laugh or point out how bad my code is but also point out what I could've changed or done better to make it better please.
+# That's all to the Two people who see this.
+
+
+
 import pyautogui
 import keyboard
 import time
