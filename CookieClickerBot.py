@@ -4,7 +4,7 @@
 # You can also laugh or point out how bad my code is but also point out what I could've changed or done better to make it better please.
 # That's all to the Two people who see this.
 # Also the pos values and stuff are different for me since I had my browser half the size because I wanted to write and test the code in a more efficient manner
-
+# THE GOLDEN COOKIE DETECTOR ONLY WORKS IF YOUR PC DATE IS SET TO MARCH 31ST! BECAUSE THE DEFAULT GOLDEN COOKIE RGB VALUES ARE TOO SIMILAR TO THE BIG COOKIE!
 
 
 import pyautogui
